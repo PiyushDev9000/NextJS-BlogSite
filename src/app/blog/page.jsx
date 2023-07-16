@@ -5,7 +5,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 
 async function getData() {
-  const res = await fetch("http://localhost:3000/api/posts", {
+  const res = await fetch("https://piyushdev-next-js-blog-site.vercel.app/api/posts", {
     cache: "no-store",
   });
 
