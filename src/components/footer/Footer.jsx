@@ -12,24 +12,28 @@ const Footer = () => {
           width={15}
           height={15}
           className={styles.icon}
+          alt="Social media"
         ></Image>
         <Image
           src="/2.png"
           width={15}
           height={15}
           className={styles.icon}
+          alt="Social media"
         ></Image>
         <Image
           src="/3.png"
           width={15}
           height={15}
           className={styles.icon}
+          alt="Social media"
         ></Image>
         <Image
           src="/4.png"
           width={15}
           height={15}
           className={styles.icon}
+          alt="Social media"
         ></Image>
       </div>
     </div>
